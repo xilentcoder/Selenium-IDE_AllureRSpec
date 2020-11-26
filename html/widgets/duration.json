@@ -1,0 +1,21 @@
+[ {
+  "uid" : "80c2c8985fbf1d03",
+  "name" : "systemuser",
+  "time" : {
+    "start" : 1604271483615,
+    "stop" : 1604271504863,
+    "duration" : 21248
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10dcc99e3137e894",
+  "name" : "login",
+  "time" : {
+    "start" : 1604271458577,
+    "stop" : 1604271483605,
+    "duration" : 25028
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

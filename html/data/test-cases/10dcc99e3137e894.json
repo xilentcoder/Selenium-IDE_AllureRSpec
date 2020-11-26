@@ -1,0 +1,64 @@
+{
+  "uid" : "10dcc99e3137e894",
+  "name" : "login",
+  "fullName" : "Authentication login",
+  "historyId" : "7d6ddaca6a403d5d9cbce92fc139b550",
+  "time" : {
+    "start" : 1604271458577,
+    "stop" : 1604271483605,
+    "duration" : 25028
+  },
+  "description" : "Location - spec/test_feature_0/authentication_spec.rb:13",
+  "descriptionHtml" : "Location - spec/test_feature_0/authentication_spec.rb:13",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "rspec"
+  }, {
+    "name" : "feature",
+    "value" : "Authentication"
+  }, {
+    "name" : "package",
+    "value" : "spec/test_feature_0"
+  }, {
+    "name" : "story",
+    "value" : "login"
+  }, {
+    "name" : "testClass",
+    "value" : "authentication_spec"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "suite",
+    "value" : "Authentication"
+  }, {
+    "name" : "thread",
+    "value" : "20476160"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-8LLJQ9R"
+  }, {
+    "name" : "language",
+    "value" : "ruby"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10dcc99e3137e894.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "DESKTOP-8LLJQ9R",
+    "children" : [ {
+      "name" : "20476160",
+      "children" : [ {
+        "name" : "systemuser",
+        "uid" : "80c2c8985fbf1d03",
+        "parentUid" : "0fc922408fa815d79daee87e8cf1d1ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604271483615,
+          "stop" : 1604271504863,
+          "duration" : 21248
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "login",
+        "uid" : "10dcc99e3137e894",
+        "parentUid" : "0fc922408fa815d79daee87e8cf1d1ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604271458577,
+          "stop" : 1604271483605,
+          "duration" : 25028
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0fc922408fa815d79daee87e8cf1d1ce"
+    } ],
+    "uid" : "02ea2fe8296a4d21087fa40939880731"
+  } ],
+  "name" : "timeline"
+}

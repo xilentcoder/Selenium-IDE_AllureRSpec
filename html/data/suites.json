@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Authentication",
+    "children" : [ {
+      "name" : "login",
+      "uid" : "10dcc99e3137e894",
+      "parentUid" : "42bb21a29215568c07256dc6d8f12d3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604271458577,
+        "stop" : 1604271483605,
+        "duration" : 25028
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "systemuser",
+      "uid" : "80c2c8985fbf1d03",
+      "parentUid" : "42bb21a29215568c07256dc6d8f12d3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604271483615,
+        "stop" : 1604271504863,
+        "duration" : 21248
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "42bb21a29215568c07256dc6d8f12d3c"
+  } ],
+  "name" : "suites"
+}
